@@ -69,3 +69,6 @@ A análise dos dados limpos revelou insights claros sobre o impacto dos hábitos
 ### 5. CONCLUSÃO
 
 Este projeto reforça a importância vital do processo de **ETL**: sem a limpeza e padronização dos dados, qualquer análise seria falha e enganosa. O dashboard final prova visualmente a conexão prejudicial entre o tempo de tela excessivo e a qualidade do sono, demonstrando a capacidade do Power BI em transformar dados brutos em insights acionáveis e estratégicos.
+
+<img width="1269" height="712" alt="Captura de tela 2025-11-08 181936" src="https://github.com/user-attachments/assets/148d503f-644d-44f9-9206-56247cb63c23" />
+
